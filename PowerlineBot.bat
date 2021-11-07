@@ -1,0 +1,2 @@
+node PowerlineBot.js
+pause
